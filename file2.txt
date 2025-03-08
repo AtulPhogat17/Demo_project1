@@ -2,4 +2,8 @@ file 2 added in the project.
 
 new text added in file 2.
 
+<<<<<<< Updated upstream
 stash file added in file 2.
+=======
+new stash text added to bug fix branch.
+>>>>>>> Stashed changes
