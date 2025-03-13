@@ -1,4 +1,4 @@
 A new bug fix file is created.
 
 fix another bug from the code.
-third bug fixed.
+new bug found.
